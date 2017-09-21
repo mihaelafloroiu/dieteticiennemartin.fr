@@ -5972,8 +5972,15 @@ header .container {
   text-shadow: 1px 1px 0px #ffffff;
 }
 .navbar a.navbar-brand span.logo_subtitle {
-  font-size: 20px;
-  font-weight: 300;
+  font-size: 19px;
+  font-weight: 400;
+  display: block;
+  text-shadow: 1px 1px 0px #ffffff;
+}
+.navbar a.navbar-brand span.logo_subtitle2 {
+  font-size: 12px;
+  font-weight: 500;
+  
   display: block;
   text-shadow: 1px 1px 0px #ffffff;
 }
